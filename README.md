@@ -2,7 +2,7 @@
 
 Kelompok pemrograman Cloud Computing dengan Node Js
 
-Ketua : Ekas Setiawan  125610016 <br />
+Ketua : <h2>Ekas Setiawan  125610016 <br />
         Panji Pamungkas 135610040
 
 
