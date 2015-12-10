@@ -4,7 +4,7 @@ Kelompok pemrograman Cloud Computing dengan Node Js
 
 Ketua : <h2>Ekas Setiawan  125610016 <br />
         Panji Pamungkas 135610040
-        Kholifah Nur Habibah 135610036
+        <br/>Kholifah Nur Habibah 135610036
 
 
 
